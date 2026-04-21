@@ -31,7 +31,7 @@
 ## 🧠 About Me
 
 - **Role:** Builder — AI & Data Systems
-- **Education:** BITS Pilani, Goa → University at Buffalo (2+2) · B.E. ECE
+- **Education:** BITS Pilani, Goa → University at Buffalo (2+2) · B.E. EEE
 - **Building:** Closr
 - **Focus:** Agents · Orchestration · Inference cost · Workflows
 - **Mantra:** *Build things that save you money, compute, and time.*
@@ -43,12 +43,12 @@
 ### [🎯 Closr — B2B Sales Intelligence & Creator Ecosystem](https://github.com/Arnav8452/lead_generator_for_closr)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square"/> <a href="https://closr-app-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-> Automated B2B sales intelligence and lead generation pipeline targeting the creator economy and local boutiques. Built scalable DB schemas + SQL-based data cleanup functions to manage high-volume dynamic lead pools. The frontend connects local creators with their audiences, backed by an infrastructure architected to drastically reduce compute overhead.
+> Automated multi-source lead engine that scrapes 9+ platforms to identify high-intent B2B signals for the creator economy. Uses a local LLM synthesis layer (`qwen2.5:7b` via Ollama) to autonomously extract identities and generate pitches. Architected a 4-stage **Enrichment Cascade** (regex, pattern DBs, headless crawling) to bypass rate limits and maintain a strictly $0/month operating cost.
 
 ### [🔍 Entity Resolution OSINT Platform](https://github.com/Arnav8452/entity_resolution_graph_osint)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Knowledge_Graphs-FF6B35?style=flat-square"/> <img src="https://img.shields.io/badge/OSINT-00D9FF?style=flat-square"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
 
-> Deep intelligence fusion platform built around entity resolution and graph-based data structures. Integrates diverse corporate registries and open-source data to construct **Palantir-style knowledge graphs** for automated intelligence analysis — resolving ambiguous entities across data sources at scale.
+> Palantir-grade intelligence pipeline that scrapes and structures geopolitical data into a Neo4j knowledge graph. Engineered a **2-Layer Resolution Gauntlet** using fuzzy matching and `all-MiniLM-L6-v2` vector cosine-similarity to disambiguate entities. The entire inference engine is memory-optimized to run within a strict **4GB VRAM ceiling** via dynamic context reduction and a rolling keep-alive window.
 
 ### [🎟️ ChainSeat — Fraud-Proof Ticketing System](https://chain-seat.vercel.app/)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Smart_Contracts-F16822?style=flat-square"/> <img src="https://img.shields.io/badge/TOTP-00D9FF?style=flat-square"/> <a href="https://chain-seat.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -58,7 +58,7 @@
 ### 🗺️ Zonedge — Geo-Intelligence Platform
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/Geo_Intelligence-00D9FF?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Shelved_(no_PMF)-6B7280?style=flat-square"/>
 
-> A localized data intelligence platform translating real-world geo-signals into actionable business strategy. Developed a map-based analytics interface using **Leaflet, MapTiler, and OpenRouteService**. Engineered a data pipeline aggregating real estate pricing and event density signals. Halted post-prototyping after validating a lack of product-market fit.
+> A localized data intelligence platform translating real-world geo-signals into actionable business strategy. Developed a map-based analytics interface using **Leaflet, MapTiler, and OpenRouteService**. Halted post-prototyping after validating a lack of product-market fit—demonstrating a strict focus on building systems with real business ROI.
 
 ---
 
