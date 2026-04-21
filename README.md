@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,0969DA&height=220&section=header&text=Arnav%20Chandra&fontSize=50&desc=Builder%20—%20AI%20%26%20Data%20Systems&descSize=22&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0A192F,0969DA&amp;height=220&amp;section=header&amp;text=Arnav%20Chandra&amp;fontSize=50&amp;desc=Builder%20—%20AI%20and%20Data%20Systems&amp;descSize=22&amp;fontColor=ffffff" alt="Header Banner" />
 
   <br/><br/>
 
@@ -79,13 +79,13 @@
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnav8452&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav8452&theme=github-dark&hide_border=true&count_private=true&date_format=M%20j%5B%2C%5D%20Y" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnav8452&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnav8452&amp;theme=github-dark-blue&amp;hide_border=true&amp;count_private=true&amp;date_format=M%20j%5B%2C%5D%20Y" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
   <p><i>"The best systems are the ones you never notice — because they just work."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0969DA,0A192F&height=120&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0969DA,0A192F&amp;height=120&amp;section=footer" alt="Footer Banner" />
 </div>
