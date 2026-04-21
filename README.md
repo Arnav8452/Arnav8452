@@ -35,13 +35,8 @@
 
 ## 🎓 Education
 
-<div align="center">
-
-| 🇮🇳 BITS Pilani, Goa Campus | → | 🇺🇸 University at Buffalo (SUNY) |
-|:---:|:---:|:---:|
-| **B.E. Electronics & Communication Engineering &nbsp;·&nbsp; 2+2 Collaborative Program** |||
-
-</div>
+🇮🇳 **BITS Pilani, Goa Campus** → 🇺🇸 **University at Buffalo (SUNY)**
+B.E. Electronics & Communication Engineering &nbsp;·&nbsp; 2+2 Collaborative Program
 
 ---
 
