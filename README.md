@@ -5,10 +5,6 @@
 
 </div>
 
-<!-- PENGUIN LANDSCAPE -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1551986782-d0169b3f8fa7?w=900&auto=format&fit=crop&q=80" width="85%" alt="penguin landscape" />
-</div>
 
 <br/>
 
