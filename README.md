@@ -5,7 +5,7 @@
 
   <br/><br/>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyMjZ5bWs5cWlqZGVmMTdyeXFnYTRhNnNkNG0ycjlsZnUzN2d2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDbqevNaJQvnpHW/giphy.gif" width="200" alt="penguin" />
+  <img src="https://raw.githubusercontent.com/RohanVerma1308/RohanVerma1308/main/Linux%20Penguin.gif" width="200" alt="penguin" />
 
   <br/><br/>
 
@@ -47,24 +47,11 @@
 
 ## 🧠 About Me
 
-```python
-arnav = {
-    "name"      : "Arnav Chandra",
-    "role"      : "Builder — AI & Data Systems",
-    "education" : [
-        "BITS Pilani, Goa  ->  University at Buffalo (2+2)",
-        "B.E. Electronics & Communication Engineering",
-    ],
-    "building"  : [
-        "Closr — B2B sales intelligence + creator ecosystem",
-        "Entity resolution & Palantir-style OSINT graphs",
-        "AI-native lead generation pipelines",
-        "Fraud-proof ticketing via TOTP + smart contracts",
-    ],
-    "focus"     : ["agents", "orchestration", "inference cost", "workflows"],
-    "mantra"    : "Build things that save you money, compute, and time.",
-}
-```
+- **Role:** Builder — AI & Data Systems
+- **Education:** BITS Pilani, Goa → University at Buffalo (2+2) · B.E. ECE
+- **Building:** Closr, Entity resolution OSINT graphs, Fraud-proof TOTP ticketing
+- **Focus:** Agents · Orchestration · Inference cost · Workflows
+- **Mantra:** *Build things that save you money, compute, and time.*
 
 ---
 
@@ -210,7 +197,7 @@ arnav = {
 
 <div align="center">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyMjZ5bWs5cWlqZGVmMTdyeXFnYTRhNnNkNG0ycjlsZnUzN2d2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDbqevNaJQvnpHW/giphy.gif" width="120" alt="penguin footer" />
+  <img src="https://raw.githubusercontent.com/RohanVerma1308/RohanVerma1308/main/Linux%20Penguin.gif" width="120" alt="penguin footer" />
 
   <br/>
 
