@@ -24,10 +24,6 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Arnav8452&label=Profile%20views&color=00d9ff&style=flat" alt="profile views" />
-
 </div>
 
 ---
@@ -36,7 +32,7 @@
 
 - **Role:** Builder — AI & Data Systems
 - **Education:** BITS Pilani, Goa → University at Buffalo (2+2) · B.E. ECE
-- **Building:** Closr, Entity resolution OSINT graphs, Fraud-proof TOTP ticketing
+- **Building:** Closr
 - **Focus:** Agents · Orchestration · Inference cost · Workflows
 - **Mantra:** *Build things that save you money, compute, and time.*
 
@@ -44,18 +40,18 @@
 
 ## 🚀 Featured Projects
 
+### [🎯 Closr — B2B Sales Intelligence & Creator Ecosystem](https://github.com/Arnav8452/lead_generator_for_closr)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square"/> <a href="https://closr-app-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+> Automated B2B sales intelligence and lead generation pipeline targeting the creator economy and local boutiques. Built scalable DB schemas + SQL-based data cleanup functions to manage high-volume dynamic lead pools. The frontend connects local creators with their audiences, backed by an infrastructure architected to drastically reduce compute overhead.
+
 ### [🔍 Entity Resolution OSINT Platform](https://github.com/Arnav8452/entity_resolution_graph_osint)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Knowledge_Graphs-FF6B35?style=flat-square"/> <img src="https://img.shields.io/badge/OSINT-00D9FF?style=flat-square"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
 
 > Deep intelligence fusion platform built around entity resolution and graph-based data structures. Integrates diverse corporate registries and open-source data to construct **Palantir-style knowledge graphs** for automated intelligence analysis — resolving ambiguous entities across data sources at scale.
 
-### [🎯 Closr — B2B Sales Intelligence Engine](https://github.com/Arnav8452/lead_generator_for_closr)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Lead_Gen-00D9FF?style=flat-square"/>
-
-> Automated B2B sales intelligence and lead generation pipeline targeting the creator economy and local boutiques. Built scalable DB schemas + SQL-based data cleanup functions to manage high-volume dynamic lead pools. Infrastructure architected to drastically reduce compute overhead for end-users.
-
 ### [🎟️ ChainSeat — Fraud-Proof Ticketing System](https://chain-seat.vercel.app/)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Smart_Contracts-F16822?style=flat-square"/> <img src="https://img.shields.io/badge/TOTP-00D9FF?style=flat-square"/> <img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Smart_Contracts-F16822?style=flat-square"/> <img src="https://img.shields.io/badge/TOTP-00D9FF?style=flat-square"/> <a href="https://chain-seat.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 > Secure event ticketing ecosystem that eliminates fraud using **TOTP (Time-based One-Time Password)** entry mechanisms with 30-second refresh cycles. Implements resale intelligence and smart-contract royalties to track and verify all legitimate ticket transfers. Live on Vercel.
 
@@ -93,6 +89,6 @@
 
 <br/>
 
-<div align="center">
-  > *"The best systems are the ones you never notice — because they just work."*
-</div>
+<p align="center">
+  <i>"The best systems are the ones you never notice — because they just work."</i>
+</p>
