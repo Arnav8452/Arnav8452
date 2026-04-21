@@ -1,66 +1,78 @@
+<!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+Arnav.;I+build+AI+%26+data+systems.;agents+%C2%B7+orchestration+%C2%B7+inference." alt="Typing SVG" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Arnav%20Chandra&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%94%20AI%20%26%20Data%20Systems&descSize=16&descAlignY=58&descColor=8b949e)
+
+</div>
+
+<!-- PENGUIN LANDSCAPE -->
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1551986782-d0169b3f8fa7?w=900&auto=format&fit=crop&q=80" width="100%" style="border-radius:8px" alt="penguin landscape" />
+</div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/RohanVerma1308/RohanVerma1308/main/Linux%20Penguin.gif" width="160" alt="penguin" />
-
-<br/>
+<!-- SOCIALS -->
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-chandra-051813325/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Cereal_comentor)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_xarnav)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arnavchandra911@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Arnav8452&label=views&color=58a6ff&style=flat-square" />
+[![Email](https://img.shields.io/badge/arnavchandra911@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arnavchandra911@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Arnav8452&label=views&color=58a6ff&style=flat-square)](https://github.com/Arnav8452)
 
 </div>
 
 <br/>
 
-B.E. ECE · BITS Pilani, Goa → University at Buffalo (2+2) &nbsp;|&nbsp; Building at the intersection of AI, data, and systems that actually move the needle.
+---
 
-<br/>
+## 👋 About
+
+ECE undergrad at **BITS Pilani, Goa** → **University at Buffalo** (2+2). I build systems around AI and data — the kind that save you money, compute, and workflow overhead. Currently deep in the creator economy and agentic pipelines.
+
+> *"Build things that save you money, compute, and time."*
 
 ---
 
-### What I'm building
+## 🚀 Projects
 
-| Project | What it does |
-|---|---|
-| [**Closr**](https://closr-app-psi.vercel.app/) | Creator ecosystem + automated B2B sales intelligence engine |
-| [**Entity Resolution OSINT**](https://github.com/Arnav8452/entity_resolution_graph_osint) | Palantir-style knowledge graphs across corporate registries and open-source data |
-| [**ChainSeat**](https://chain-seat.vercel.app/) | Fraud-proof ticketing via TOTP (30s refresh) + smart-contract resale royalties |
-| **Zonedge** *(shelved)* | Geo-intelligence platform for business decisions — halted after validating no PMF |
+### [Closr](https://closr-app-psi.vercel.app/) — Creator Ecosystem
+Automated B2B sales intelligence engine targeting the creator economy and local boutiques. Scalable DB schemas, SQL-based lead cleanup pipelines, and infrastructure built to minimise compute for end-users.
 
----
+### [Entity Resolution OSINT Platform](https://github.com/Arnav8452/entity_resolution_graph_osint)
+Deep intelligence fusion across corporate registries and open-source data. Builds Palantir-style knowledge graphs for automated entity disambiguation at scale.
 
-### Stack
+### [ChainSeat](https://chain-seat.vercel.app/) — Fraud-Proof Ticketing
+Eliminates ticket fraud via **TOTP entry with 30-second refresh cycles**. Smart-contract resale royalties track every legitimate transfer on-chain.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### Zonedge *(shelved — no PMF)*
+Map-based geo-intelligence interface using Leaflet, MapTiler, and OpenRouteService. Aggregated real estate pricing and event density signals. Shut down post-prototype after validating insufficient market pull.
 
 ---
 
-### Stats
+## 🛠 Stack
+
+**Languages** &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JavaScript
+
+**AI / Data** &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; OpenAI &nbsp;·&nbsp; Anthropic &nbsp;·&nbsp; Neo4j &nbsp;·&nbsp; PostgreSQL
+
+**Infra** &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Docker
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arnav8452&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav8452&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Arnav8452&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=58a6ff&ring_color=58a6ff" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav8452&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
 
 </div>
 
 ---
 
-### Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -70,8 +82,9 @@ B.E. ECE · BITS Pilani, Goa → University at Buffalo (2+2) &nbsp;|&nbsp; Build
   </picture>
 </div>
 
-<br/>
-
+<!-- FOOTER -->
 <div align="center">
-<sub><i>Build things that save you money, compute, and time.</i></sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
+
 </div>
