@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Arnav%20Chandra&fontSize=52&desc=Builder%20%E2%80%94%20AI%20%26%20Data%20Systems&descSize=18&fontColor=ffffff&descAlignY=62&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,12,20&amp;height=200&amp;section=header&amp;text=Arnav%20Chandra&amp;fontSize=52&amp;desc=Builder%20%E2%80%94%20AI%20and%20Data%20Systems&amp;descSize=18&amp;fontColor=ffffff&amp;descAlignY=62&amp;animation=fadeIn" alt="Header" width="100%" />
 
 <div align="center">
   <br/>
@@ -84,4 +84,4 @@
   <p><i>"The best systems are the ones you never notice — because they just work."</i></p>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,12,20&amp;height=120&amp;section=footer&amp;animation=fadeIn" alt="Footer" width="100%" />
