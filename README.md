@@ -1,17 +1,3 @@
-<!-- SNAKE GAME — runs via GitHub Actions, outputs to /output branch -->
-<div align="center">
-  
-  <!-- Dark mode snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arnav8452/Arnav8452/raw/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arnav8452/Arnav8452/raw/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Arnav8452/Arnav8452/raw/output/github-snake.svg" />
-  </picture>
-
-</div>
-
----
-
 <!-- HEADER -->
 <div align="center">
 
@@ -19,12 +5,10 @@
 
   <br/><br/>
 
-  <!-- Penguin GIF — same vibe as the reference profile -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyMjZ5bWs5cWlqZGVmMTdyeXFnYTRhNnNkNG0ycjlsZnUzN2d2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDbqevNaJQvnpHW/giphy.gif" width="200" alt="penguin" />
 
   <br/><br/>
 
-  <!-- Social badges -->
   <a href="https://www.linkedin.com/in/arnav-chandra-051813325/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -49,23 +33,18 @@
 
 ---
 
-<!-- EDUCATION -->
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td><strong>🇮🇳 BITS Pilani, Goa Campus</strong></td>
-    <td>→</td>
-    <td><strong>🇺🇸 University at Buffalo (SUNY)</strong></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">B.E. Electronics & Communication Engineering &nbsp;|&nbsp; 2+2 Collaborative Program</td>
-  </tr>
-</table>
+<div align="center">
+
+| 🇮🇳 BITS Pilani, Goa Campus | → | 🇺🇸 University at Buffalo (SUNY) |
+|:---:|:---:|:---:|
+| **B.E. Electronics & Communication Engineering &nbsp;·&nbsp; 2+2 Collaborative Program** |||
+
+</div>
 
 ---
 
-<!-- ABOUT -->
 ## 🧠 About Me
 
 ```python
@@ -73,7 +52,7 @@ arnav = {
     "name"      : "Arnav Chandra",
     "role"      : "Builder — AI & Data Systems",
     "education" : [
-        "BITS Pilani, Goa  →  University at Buffalo (2+2)",
+        "BITS Pilani, Goa  ->  University at Buffalo (2+2)",
         "B.E. Electronics & Communication Engineering",
     ],
     "building"  : [
@@ -89,7 +68,18 @@ arnav = {
 
 ---
 
-<!-- FEATURED PROJECTS -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arnav8452/Arnav8452/raw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arnav8452/Arnav8452/raw/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Arnav8452/Arnav8452/raw/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -156,7 +146,6 @@ arnav = {
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -188,11 +177,10 @@ arnav = {
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arnav8452&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav8452&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -204,7 +192,6 @@ arnav = {
 
 ---
 
-<!-- TROPHIES -->
 ## 🏆 Trophies
 
 <div align="center">
@@ -213,7 +200,6 @@ arnav = {
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -222,7 +208,6 @@ arnav = {
 
 ---
 
-<!-- PENGUIN FOOTER -->
 <div align="center">
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyMjZ5bWs5cWlqZGVmMTdyeXFnYTRhNnNkNG0ycjlsZnUzN2d2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDbqevNaJQvnpHW/giphy.gif" width="120" alt="penguin footer" />
