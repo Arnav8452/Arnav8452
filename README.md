@@ -33,8 +33,10 @@
 
 ## 🚀 Featured Projects
 
-### [🎯 Closr — B2B Sales Intelligence & Creator Ecosystem](https://github.com/Arnav8452/lead_generator_for_closr)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square"/> <a href="https://closr-app-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
+### [🎯 Closr — Autonomous B2B Lead Generation Engine](https://github.com/Arnav8452/lead_generator_for_closr)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Local_LLMs-7C3AED?style=flat-square"/> <a href="https://closr-app-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+> Fully autonomous B2B lead generation pipeline built for the creator economy, engineered to run entirely on local hardware (**4GB VRAM RTX 3050**). Scrapes 7 high-intent web sources and processes the DOM through a **4-stage Extraction Fortress** (using CPU-bound `bart-large-mnli` and `all-MiniLM-L6-v2`) to aggressively filter noise before a single token touches the GPU. Extracts entities via `qwen2.5:7b` (Ollama) and routes them through a concurrent 5-thread **ReAct Agent** state-machine for waterfall email enrichment—maintaining strict $0 cloud LLM costs.
 
 > Automated multi-source lead engine that scrapes 9+ platforms to identify high-intent B2B signals for the creator economy. Uses a local LLM synthesis layer (`qwen2.5:7b` via Ollama) to autonomously extract identities and generate pitches. Architected a 4-stage **Enrichment Cascade** (regex, pattern DBs, headless crawling) to bypass rate limits and maintain a strictly $0/month operating cost.
 
