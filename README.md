@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - **Role:** Builder — AI & Data Systems
 - **Education:** BITS Pilani, Goa → University at Buffalo (2+2) · B.E. EEE
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [🎯 Closr — Autonomous B2B Lead Generation Engine](https://github.com/Arnav8452/lead_generator_for_closr)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Local_LLMs-7C3AED?style=flat-square"/> <a href="https://closr-app-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
