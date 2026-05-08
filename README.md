@@ -28,7 +28,7 @@
 - **Building:** Closr
 - **Focus:** Agents · Orchestration · Inference cost · Workflows 
 - **Mantra:** *Build things that save you money, compute, and time.*
-- Creative problem solving under resource constraints.
+- Creative problem solving under resource constraints
 
 ---
 
