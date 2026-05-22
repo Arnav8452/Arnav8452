@@ -34,6 +34,13 @@
 
 ## Featured Projects
 
+## Featured Projects
+
+### [💸 Freeloader — AI Inference Resilience Gateway](https://github.com/Arnav8452/freeloader)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/> <a href="https://www.npmjs.com/package/@freeloaderapi/core"><img src="https://img.shields.io/badge/npm-%40freeloaderapi-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+
+> Production-grade, OpenAI-compatible AI gateway engineered to load-balance LLM requests across free-tier providers (Gemini, Groq, Cerebras). Built as an inference resilience layer featuring **Redis-backed distributed circuit breakers**, dynamic model virtualization, token accounting, and SHA-256 request caching to maximize $0 inference. Architected in a `pnpm` monorepo using Turborepo and published directly to the public **npm registry** as an open-source infrastructure package.
+
 ### [🎯 Closr — Autonomous B2B Lead Generation Engine](https://github.com/Arnav8452/lead_generator_for_closr)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Local_LLMs-7C3AED?style=flat-square"/> <a href="https://closr-app-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
 
@@ -48,11 +55,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Smart_Contracts-F16822?style=flat-square"/> <img src="https://img.shields.io/badge/TOTP-00D9FF?style=flat-square"/> <a href="https://chain-seat.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 > Secure event ticketing ecosystem that eliminates fraud using **TOTP (Time-based One-Time Password)** entry mechanisms with 30-second refresh cycles. Implements resale intelligence and smart-contract royalties to track and verify all legitimate ticket transfers. Live on Vercel.
-
-### 🗺️ Zonedge — Geo-Intelligence Platform
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/> <img src="https://img.shields.io/badge/Geo_Intelligence-00D9FF?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Shelved_(no_PMF)-6B7280?style=flat-square"/>
-
-> A localized data intelligence platform translating real-world geo-signals into actionable business strategy. Developed a map-based analytics interface using **Leaflet, MapTiler, and OpenRouteService**. Halted post-prototyping after validating a lack of product-market fit—demonstrating a strict focus on building systems with real business ROI.
 
 ---
 
