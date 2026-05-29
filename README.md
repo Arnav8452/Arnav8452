@@ -23,7 +23,7 @@
 
 ## About Me
 
-- **Role:** Builder — AI & Data Systems
+- **Role:** Builder AI & Data Systems
 - **Education:** BITS Pilani, Goa → University at Buffalo (2+2) · B.E. EEE
 - **Building:** Closr
 - **Focus:** Agents · Orchestration · Inference cost · Workflows 
